@@ -1,0 +1,1 @@
+/home/wyatt/Documents/Rust/RustStuff/wtar/target/debug/wtar: /home/wyatt/Documents/Rust/RustStuff/wtar/src/main.rs /home/wyatt/Documents/Rust/RustStuff/wtar/src/extractor.rs /home/wyatt/Documents/Rust/RustStuff/wtar/src/creator.rs
